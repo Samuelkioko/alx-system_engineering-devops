@@ -10,3 +10,9 @@ And hidden files (starting with .)
 7. 6-firstdirectory - Make new directory in tmp
 8. 7-movethatfile - Move betty file to my_new_directory
 9. 8-firstdelete - Delete betty file
+10. 9-firstdirdeletion - Delete the directory my_first_directory that is in the /tmp directory.
+11. 10-back - changes the working directory to the previous one.
+12. 11-lists - lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+13. 12-file_type - prints the type of the file named iamafile
+14. 13-symbolic_link - Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+15. 14-copy_html -copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. 
