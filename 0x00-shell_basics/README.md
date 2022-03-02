@@ -7,3 +7,4 @@
 Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)
+7. 6-firstdirectory - Make new directory in tmp
