@@ -9,3 +9,4 @@ with user and group IDs displayed numerically
 And hidden files (starting with .)
 7. 6-firstdirectory - Make new directory in tmp
 8. 7-movethatfile - Move betty file to my_new_directory
+9. 8-firstdelete - Delete betty file
