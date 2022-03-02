@@ -15,4 +15,6 @@ And hidden files (starting with .)
 12. 11-lists - lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 13. 12-file_type - prints the type of the file named iamafile
 14. 13-symbolic_link - Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
-15. 14-copy_html -copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. 
+15. 14-copy_html -copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+16. 100-lets_move - moves all files beginning with an uppercase letter to the directory /tmp/u.
+17. 101-clean_emacs - creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. 
